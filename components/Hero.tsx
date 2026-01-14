@@ -70,7 +70,7 @@ function Hero() {
         </p>
         <div className="w-100 flex justify-start items-start mt-5">
           <motion.a
-            href="/assets/mo_resume2.pdf"
+            href="/assets/mo_resume.pdf"
             target="_blank"
             className=" group relative"
           >
