@@ -43,7 +43,7 @@ const social = [
   },
   {
     title: "Resume",
-    to: "/assets/mo_resume.pdf",
+    to: "/assets/mo_resume1.pdf",
   },
 ];
 function Slider({
