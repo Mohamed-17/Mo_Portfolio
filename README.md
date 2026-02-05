@@ -74,7 +74,7 @@ This project challenged me to level up my animation skills and taught me:
 
 ### Clone Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/portfolio.git
+git clone https://github.com/Mohamed-17/Mo_Portfolio
 cd portfolio
 ```
 
@@ -242,8 +242,8 @@ This project is open source and available under the [MIT License](LICENSE).
 **Mohamed Elmshaly (Mo)**
 - Portfolio: [moyelmshaly.vercel.app](https://moyelmshaly.vercel.app)
 - GitHub: [@Mohamed-17](https://github.com/Mohamed-17)
-- LinkedIn: [linkedin.com/in/mo](https://linkedin.com/in/mo)
-- Email: muhamed77700m@gmail.com
+- LinkedIn: [linkedin.com/in/mo](https://www.linkedin.com/in/mo-elmshaly)
+- Email: mohamed.works@outlook.com
 
 ## 🙏 Acknowledgments
 
