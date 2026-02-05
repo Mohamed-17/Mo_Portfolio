@@ -204,17 +204,6 @@ The project works on any platform supporting Next.js:
 - AWS Amplify
 - Digital Ocean
 
-## 🎯 Future Enhancements
-
-- [ ] Blog section with MDX support
-- [ ] Dark/Light theme toggle
-- [ ] Multi-language support (i18n)
-- [ ] Project filtering and search
-- [ ] 3D elements with Three.js
-- [ ] Testimonials section
-- [ ] Achievement/Stats counter animations
-- [ ] Integration with CMS (Sanity/Contentful)
-
 ## 📚 Learning Resources
 
 Resources that helped build this project:
