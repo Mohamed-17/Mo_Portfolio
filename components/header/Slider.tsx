@@ -151,8 +151,8 @@ function Slider({
               </h4>
             </div>
             <div>
-              <a href="mailto:muhamed77700m@gmail.com" className="underline">
-                muhamed77700m@gmail.com
+              <a href="mailto:mohamed.works@outlook.com" className="underline">
+                mohamed.works@outlook.com
               </a>
             </div>
           </div>

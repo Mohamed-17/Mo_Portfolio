@@ -5,12 +5,14 @@ A modern, animated portfolio website showcasing my work as a Frontend Developer.
 ## ✨ Features
 
 ### 🎨 **Advanced Animations**
+
 - **Custom Cursor**: Smooth-following cursor with fluid transitions that responds to hover states
 - **Interactive Project Cards**: Dynamic image reveals on hover with cursor-tracking effects
 - **Page Transitions**: Elegant overlay animations on page load, refresh, and navigation
 - **Scroll Animations**: GSAP-powered scroll-triggered animations throughout
 
 ### 🎯 **Core Functionality**
+
 - **Responsive Design**: Fully optimized for all devices (mobile, tablet, desktop)
 - **Performance Optimized**: Fast load times with Next.js App Router and image optimization
 - **Smooth Navigation**: Seamless page transitions with route change animations
@@ -19,6 +21,7 @@ A modern, animated portfolio website showcasing my work as a Frontend Developer.
 - **Downloadable Resume**: Direct PDF download link
 
 ### 🛠️ **Technical Highlights**
+
 - Built with **Next.js 16 App Router** for optimal performance
 - **TypeScript** for type safety and better developer experience
 - **Framer Motion** for declarative animations
@@ -59,7 +62,7 @@ This project challenged me to level up my animation skills and taught me:
 - **Framework**: Next.js 16 (App Router)
 - **Language**: TypeScript
 - **Styling**: Tailwind CSS v4
-- **Animations**: 
+- **Animations**:
   - Framer Motion (component animations)
   - GSAP (scroll animations, timelines)
   - Lenis (smooth scroll)
@@ -69,16 +72,19 @@ This project challenged me to level up my animation skills and taught me:
 ## 📦 Installation & Setup
 
 ### Prerequisites
-- Node.js 18+ 
+
+- Node.js 18+
 - npm or yarn or pnpm
 
 ### Clone Repository
+
 ```bash
 git clone https://github.com/YOUR_USERNAME/portfolio.git
 cd portfolio
 ```
 
 ### Install Dependencies
+
 ```bash
 npm install
 # or
@@ -88,6 +94,7 @@ pnpm install
 ```
 
 ### Run Development Server
+
 ```bash
 npm run dev
 # or
@@ -101,18 +108,21 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 ## 🎨 Key Animation Components
 
 ### 1. Custom Cursor
+
 ```typescript
 // Smooth cursor that follows mouse with magnetic effect
 // Features: scale transforms, blend modes, hover states
 ```
 
 ### 2. Project Card Hover
+
 ```typescript
 // Image reveal animation tied to cursor position
 // Implements: mouse tracking, image positioning, smooth transitions
 ```
 
 ### 3. Page Transition Overlay
+
 ```typescript
 // Animated overlay on route changes
 // Uses: Framer Motion AnimatePresence, stagger effects
@@ -121,21 +131,25 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 ## 🌟 Featured Sections
 
 ### **Hero Section**
+
 - Animated text reveals
 - Smooth scroll indicator
 - Gradient background effects
 
 ### **Projects Gallery**
+
 - Grid layout with hover effects
 - Cursor-following image previews
 - Project details on click
 
 ### **About Section**
+
 - Skills showcase with icons
 - Timeline animation on scroll
 - Tech stack badges
 
 ### **Contact**
+
 - Animated form inputs
 - Validation with error states
 - Success/error feedback animations
@@ -143,11 +157,13 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 ## 📱 Responsive Design
 
 The portfolio is fully responsive with breakpoints:
+
 - **Mobile**: 320px - 768px
 - **Tablet**: 768px - 1024px
 - **Desktop**: 1024px+
 
 Animations adapt to device capabilities:
+
 - Reduced motion support for accessibility
 - Touch-optimized interactions on mobile
 - Disabled cursor effects on touch devices
@@ -160,6 +176,7 @@ Animations adapt to device capabilities:
 - **Cumulative Layout Shift**: < 0.1
 
 Optimizations:
+
 - Next.js Image component for automatic optimization
 - Code splitting with dynamic imports
 - Lazy loading for below-the-fold content
@@ -168,13 +185,16 @@ Optimizations:
 ## 🔧 Configuration
 
 ### Environment Variables
+
 Create a `.env.local` file:
+
 ```env
 # Add any API keys or environment variables here
 NEXT_PUBLIC_SITE_URL=https://moyelmshaly.vercel.app
 ```
 
 ### Customization
+
 To customize for your own portfolio:
 
 1. **Update Personal Info**: Edit `lib/data/personal-info.ts`
@@ -198,7 +218,9 @@ vercel deploy
 ```
 
 ### Other Platforms
+
 The project works on any platform supporting Next.js:
+
 - Netlify
 - Railway
 - AWS Amplify
@@ -228,6 +250,7 @@ Resources that helped build this project:
 ## 🤝 Contributing
 
 While this is a personal portfolio, feel free to:
+
 - Report bugs
 - Suggest improvements
 - Use the code as reference for your own portfolio
@@ -240,10 +263,11 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 👨‍💻 Author
 
 **Mohamed Elmshaly (Mo)**
+
 - Portfolio: [moyelmshaly.vercel.app](https://moyelmshaly.vercel.app)
 - GitHub: [@Mohamed-17](https://github.com/Mohamed-17)
 - LinkedIn: [linkedin.com/in/mo](https://linkedin.com/in/mo)
-- Email: muhamed77700m@gmail.com
+- outlook: mohamed.works@outlook.com
 
 ## 🙏 Acknowledgments
 

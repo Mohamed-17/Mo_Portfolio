@@ -51,11 +51,7 @@ export default function RootLayout({
               <div className="hidden">
                 <Hero />
               </div>
-              <div className="hidden lg:block fixed left-[-86px] text-gray-300 bottom-50 z-10 rotate-90">
-                <a href="mailto:muhamed77700m@gmail.com">
-                  muhamed77700m@gmail.com
-                </a>
-              </div>
+
               {children}
             </ClientLayout>
           </LoadingProvider>
