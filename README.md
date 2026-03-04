@@ -79,7 +79,7 @@ This project challenged me to level up my animation skills and taught me:
 ### Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/portfolio.git
+git clone https://github.com/Mohamed-17/Mo_Portfolio
 cd portfolio
 ```
 
@@ -226,17 +226,6 @@ The project works on any platform supporting Next.js:
 - AWS Amplify
 - Digital Ocean
 
-## 🎯 Future Enhancements
-
-- [ ] Blog section with MDX support
-- [ ] Dark/Light theme toggle
-- [ ] Multi-language support (i18n)
-- [ ] Project filtering and search
-- [ ] 3D elements with Three.js
-- [ ] Testimonials section
-- [ ] Achievement/Stats counter animations
-- [ ] Integration with CMS (Sanity/Contentful)
-
 ## 📚 Learning Resources
 
 Resources that helped build this project:
@@ -266,8 +255,8 @@ This project is open source and available under the [MIT License](LICENSE).
 
 - Portfolio: [moyelmshaly.vercel.app](https://moyelmshaly.vercel.app)
 - GitHub: [@Mohamed-17](https://github.com/Mohamed-17)
-- LinkedIn: [linkedin.com/in/mo](https://linkedin.com/in/mo)
-- outlook: mohamed.works@outlook.com
+- LinkedIn: [linkedin.com/in/mo](https://www.linkedin.com/in/mo-elmshaly)
+- Email: mohamed.works@outlook.com
 
 ## 🙏 Acknowledgments
 
